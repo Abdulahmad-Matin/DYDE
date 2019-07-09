@@ -1,0 +1,18 @@
+.deactivebox{
+	display: none;
+}
+.activebox{
+	display: flex;
+}
+#box{
+	height: 500px;
+}
+.orderthebox .first{
+	background: green!important;
+}
+.orderthebox .second{
+	background: blue!important;
+}
+.orderthebox .third{
+	background: yellow!important;
+}
